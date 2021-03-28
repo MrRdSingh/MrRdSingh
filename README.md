@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Ramandeep Singh Arora](github.com/MrRdSingh)
+- 👋 Hi, I’m [Ramandeep Singh Arora](https://github.com/MrRdSingh/)
 - 👀 I’m interested in programming things and playing [DOTA2](https://www.dota2.com/home/).
 - 🌱 I’m currently learning Java and other related technologies. 
 
